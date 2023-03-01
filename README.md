@@ -1,7 +1,16 @@
 # 🚀 Drivly 🗺️ Roadmap
 
-## 🚘 Commerce  
+```[tasklist]
+## 🚘 Commerce
+- [ ] Add a draft title or issue reference here
+```
 
-## 🛠️ Services  
+```[tasklist]
+## 🛠️ Services
+- [ ] Add a draft title or issue reference here
+```
 
+```[tasklist]
 ## 📖 Data
+- [ ] Add a draft title or issue reference here
+```
