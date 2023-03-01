@@ -3,11 +3,15 @@
 
 ## 🚘 Commerce
 
-- [ ] Add a draft title or issue reference here
+- [x] Instant Cash Offers API
+- [x] Wholesale Dropship API
+- [ ] Affiliate Dropship Whitelabel
 
 ## 🛠️ Services
-- [ ] Add a draft title or issue reference here
+- [X] Vehicle Transport API
+- [X] Financing Pre-Approval API
+- [ ] Credit Application API
 
 ## 📖 Data
-- [ ] Add a draft title or issue reference here
+- [X] Drivly Connect for Credentialed Data
 
